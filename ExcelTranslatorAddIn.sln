@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelTranslatorAddIn", "ExcelTranslatorAddIn.vbproj", "{9CB5A730-00C1-42B7-BCFE-D3918EF49166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB5A730-00C1-42B7-BCFE-D3918EF49166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB5A730-00C1-42B7-BCFE-D3918EF49166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB5A730-00C1-42B7-BCFE-D3918EF49166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB5A730-00C1-42B7-BCFE-D3918EF49166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB0A774-4D9B-4854-8F3A-118C54DE11F7}
+	EndGlobalSection
+EndGlobal
